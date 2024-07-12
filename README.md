@@ -15,7 +15,7 @@ Below is a list of other things that you will need:
 - [MechaKoopaPartsArm object documentation](https://smgcommunity.github.io/galaxydatabase/config_MechaKoopaPartsArm.html)
 - A level editor
 
-Setting up MEcha Bowser works the same way that it does in SMG1.
+Setting up Mecha Bowser works the same way that it does in SMG1.
 
 ## Credits
 - @shibbo - SMG1 code decompilation
