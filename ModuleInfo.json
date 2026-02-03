@@ -2,6 +2,7 @@
   "Name": "Mecha Bowser Mapparts in SMG2",
   "Author": "Super Hackio",
   "Description": "Fresh from the Assembly Line",
+  "SupportedGames": [ "SB4" ],
 
   "ModuleData": [
     {
